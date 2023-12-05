@@ -20,3 +20,11 @@ header{
     justify-content: space-between;
     padding: 0;
   }
+  footer{
+    min-height: 600px;
+    background-color: #fd8c8c;
+    border-radius: 10px;
+    font-size: 30px;
+    box-sizing: border-box;
+    padding: 20px;
+  }
